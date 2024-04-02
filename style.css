@@ -1,0 +1,183 @@
+body {
+
+    font-family: sans-serif;
+
+}
+
+.first-h1 {
+
+    margin-left: 2%;
+    
+}   
+
+.first-p {
+    
+    margin-left: 2%;    
+    width: 50%;
+    font-size: larger;
+}
+
+.second-h1 {
+
+    margin-left: 40%;
+    margin-top: 150px;
+    
+}
+
+h2 {
+
+    margin-left: 25%;
+    margin-top: -950px;
+
+}
+
+.second-p {
+
+    margin-left: 2%;    
+    width: 55%;
+    font-size: larger;
+
+}
+
+.third-p {
+
+    margin-left: 25%;    
+    width: 55%;
+    font-size: larger;
+
+}
+
+.yogapng { 
+
+    max-width: 100%;
+    width: 50%;
+    height: auto;
+    transform: scale(0.7);
+    position: relative;
+    top: -350px;
+    margin-left: 1000px;
+}
+
+nav {
+
+    font-size: larger;
+    font-weight: bold;
+    background-color: aqua;
+    display: flex;  
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px;
+
+}
+
+.tab {
+
+    text-decoration: none;
+    color: black;
+
+}
+
+.first-yoga-exemple {
+
+    margin-left: 2%;
+    font-size: large;
+}
+
+.second-yoga-exemple {
+
+    margin-top: 10%;
+    margin-left: 50%;
+    font-size: large;
+}
+
+.yoga-exemple-comment {
+
+    font-size: 35px;
+    margin-left: 55%;
+    width: 25%;
+    margin-top: -20%;
+}
+
+.yoga-second-comment {
+
+    font-size: 35px;
+    margin-left: 13%;
+    width: 25%;
+    margin-top: -20%;
+}
+
+.important-exemples {
+
+    margin-left: 18%;
+    margin-top: 3%;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.important {
+
+    color:red;
+    font-size: 20px;
+}
+
+.third-h1 {
+
+    margin-left: 43%;
+    margin-top: 3%;
+}
+
+.meditation-exemple {
+
+    margin-left: 2%;
+
+}
+
+.meditation-p {
+
+    font-size: 35px;
+    margin-left: 55%;
+    width: 25%;
+    margin-top: -20%;
+}
+
+.ending {
+
+    margin-left: 18%;
+    margin-top: 50px;
+
+}
+
+.ending-p {
+
+    margin-left: 12%;
+    width: 25%;
+    font-size: 20px;
+}
+
+.email {
+    
+    margin-left: 12%;
+
+}
+
+.footer {
+
+    margin-top: 2%;
+    font-size: larger;
+    font-weight: bold;
+    background-color: aqua;
+    display: flex;  
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px;
+    
+}
+
+.footer a {
+
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+
+}
+
